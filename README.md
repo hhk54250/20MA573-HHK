@@ -1,3 +1,9 @@
 # 20MA573-Computational Finance
 by haokai hu
+
+##Homework
+
 - hw1 is going to be here
+
+## In class practice
+- [prj01](src/prj01.ipynb)
