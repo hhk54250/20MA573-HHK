@@ -8,5 +8,5 @@ by haokai hu
 ## In class practice
 - [prj01](src/prj01.ipynb)
 - [prj02](src/prj02.ipynb)
-- [hw2](hw2/prj01.ipynb)
-- [hw2](hw2/prj01.ipynb)
+- [hw2](hw2/20fd2.ipynb)
+- [hw2](hw2/HW2(2).ipynb)
