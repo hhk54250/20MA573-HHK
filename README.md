@@ -11,3 +11,4 @@ by haokai hu
 - [hw2 - second order finite difference](hw2/20fd2.ipynb)
 - [hw2 - increasing rate of finite difference](hw2/HW2(2).ipynb)
 - [hw3 - option_combinations](hw3/option_combinations.ipynb)
+- [hw3 - bsm price change](hw3/bsm price change.ipynb)
