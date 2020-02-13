@@ -11,5 +11,5 @@ by haokai hu
 - [hw2 - second order finite difference](hw2/20fd2.ipynb)
 - [hw2 - increasing rate of finite difference](hw2/HW2(2).ipynb)
 - [hw3](hw3)
-- [hw4 - monotonicity in volatility](hw4/monotonicity in volatility.ipynb)
-- [prj02](src/prj02.ipynb)
+- [hw4](hw4)
+
