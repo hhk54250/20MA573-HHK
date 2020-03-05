@@ -13,4 +13,4 @@ by haokai hu
 - [hw3](hw3)
 - [hw4](hw4)
 - [hw5](hw5)
-- [hw5](123.pdf)
+- [hw6 - pf and pseudo code](123.pdf)
