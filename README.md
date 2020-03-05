@@ -14,4 +14,4 @@ by haokai hu
 - [hw4](hw4)
 - [hw5](hw5)
 - [hw6 - pf and pseudo code](123.pdf)
-- [hw6 - bm1d path simulation](bm1d path simulation .ipynb)
+- [hw6 - bm1d path simulation](hw6)
