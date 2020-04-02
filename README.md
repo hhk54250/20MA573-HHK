@@ -16,3 +16,4 @@ by haokai hu
 - [hw6 - pf and pseudo code](123.pdf)
 - [hw6 - bm1d path simulation](hw6)
 - [hw7](hw7)
+- [hw8](hw8)
